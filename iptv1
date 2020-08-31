@@ -1,202 +1,32 @@
 #EXTM3U
 #PLAYLIST:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",& Flix HD
-http://176.9.111.190:31000/live/ropon@25/ropon25/116.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",& PRIVE HD
-http://176.9.111.190:31000/live/ropon@25/ropon25/105.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",& Pictures HD
-http://176.9.111.190:31000/live/ropon@25/ropon25/114.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",& TV HD
-http://176.9.111.190:31000/live/ropon@25/ropon25/115.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",& xplore HD
-http://beyondstreamz.net:25461/live/Ouiga/779393/175227.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",&TV HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/321.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",5aab Today
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/5723.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png" group-title="Music",7S Music
-http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",9X Jalwa
-http://eglecome.club:80/v61607/30043316/110646?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",9X TASHAN
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16972.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",9x Jalwa
 http://beyondstreamz.net:25461/live/Ouiga/779393/175215.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",9x Jalwa
-http://beyondstreamz.net:25461/live/Ouiga/779393/175098.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",9x Tashan
 http://beyondstreamz.net:25461/live/Ouiga/779393/175200.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",A One Punjabi
-http://beyondstreamz.net:25461/live/Ouiga/779393/175203.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",AAJ TAK HD
 http://beyondstreamz.net:25461/live/Ouiga/779393/175183.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",AASTHA
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/320.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ABC WRTV
 http://beyondstreamz.net:25461/live/Ouiga/779393/174142.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="Undefined",ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="Undefined",ABP Ananda
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ABP Asmita
-http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/08/abp_asmita_in.png" group-title="News",ABP Asmita
-https://abp-i.akamaihd.net/hls/live/765532/abpasmita/masterhls_1564.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZNoM8_ZqOG-8Lksy07YD-ltPehSFnfWcmxTU1LxlwbC58_8jcfJ987g" group-title="News",ABP Asmita
-http://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZNoM8_ZqOG-8Lksy07YD-ltPehSFnfWcmxTU1LxlwbC58_8jcfJ987g" group-title="News",ABP Asmita
-https://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/08/abp_asmita_in.png" group-title="News",ABP Asmita
-https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/abpmajha78.jpg" group-title="News",ABP Majha
-https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/abpmajha78.jpg" group-title="News",ABP Majha
-https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ABP NEWS
-http://beyondstreamz.net:25461/live/Ouiga/779393/175181.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="News",ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ADITYA TV
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3303.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ALPHA ETC PUNJABI
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16973.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",AONE MUSIC
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16974.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",AONE PUNJABI
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16975.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",APB
-https://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="CN;IN" tvg-logo="" group-title="Undefined",APB,å°åº¦APB
-http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Aaj Tak News
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/6366.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Aastha_Bhajan
-http://176.9.111.190:31000/live/ropon@25/ropon25/292.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/IgwQ7o5.png" group-title="Entertainment",Aathavan TV
-http://45.77.66.224:1935/athavantv/live/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Akaal Punjabi
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/5721.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/akaram1.png" group-title="Undefined",Akaram TV
-http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="Undefined",Akaram TV
-http://akaram.zecast.net/akaram-live/akaramnew2/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Amar Ujala
-https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/analaiexpress1.jpg" group-title="Undefined",Analai Express HD
-https://live.streamjo.com/sarastv/sarastv.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Animal Planet HINDI
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/17097.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Asianet HD
-http://beyondstreamz.net:25461/live/Ouiga/779393/175128.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Asianet HD
-http://176.9.111.190:31000/live/ropon@25/ropon25/260.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/89LBgkl.png" group-title="News",Asianet News
-http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Asianet Plus
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/2394.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Asianet TV US
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/2393.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Asianet movies
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/31318.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",Assam Talks
-http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Astro Cricket HD
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Starw Cricket HD
 http://beyondstreamz.net:25461/live/Ouiga/779393/175206.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/ayush_tv_in.png" group-title="Lifestyle",Ayush TV
-http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",B4U AFLAM
-http://beyondstreamz.net:25461/live/Ouiga/779393/175195.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/b4u-kadak-in.png" group-title="Music",B4U Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",B4U Movies
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/2391.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/b4u_music_in.png" group-title="Music",B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN;PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="Music;Undefined",B4U Music
-http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",B4U Music
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/2390.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",B4U Plus
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/2392.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",B4u Music
-http://beyondstreamz.net:25461/live/Ouiga/779393/175127.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/BBC_World_News-1.png" group-title="News",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",BBO HD
-http://beyondstreamz.net:25461/live/Ouiga/779393/175187.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",BOLLYWOOD HD
-http://176.9.111.190:31000/live/ropon@25/ropon25/121.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN;PK" tvg-logo="" group-title="Undefined",BOLLYWOOD NOW
-http://eglecome.club:80/v61607/30043316/110684?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Balle Balle HD
-http://beyondstreamz.net:25461/live/Ouiga/779393/175213.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Big Magic
-http://beyondstreamz.net:25461/live/Ouiga/779393/175124.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",BollyWood Hd
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END&checkedby:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="Undefined",Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/w06sLAh.jpg" group-title="Undefined",Bollywood Now
-https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",CAPTAIN NEWS
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3302.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",CAPTAIN TV
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3304.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",CARTOON NETWORK HINDI
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/1072.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",CBS WANE
-http://beyondstreamz.net:25461/live/Ouiga/779393/130777.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",CBS WANE
-http://main.realiptv.to:25461/live/admin/admin/89566.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",CBS WEVV
 http://beyondstreamz.net:25461/live/Ouiga/779393/130776.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",CBS WEVV
-http://main.realiptv.to:25461/live/admin/admin/89564.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",CBS WSBT
-http://beyondstreamz.net:25461/live/Ouiga/779393/130778.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",CHANNEL Y
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16986.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",CHARDIKLA TIME TV
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16976.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Business;Undefined",CNBC Awaaz
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",CNBC Awaaz
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/2444.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",CNBC TV 18 hd
 http://beyondstreamz.net:25461/live/Ouiga/779393/175178.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/3yumcV3.jpg" group-title="Business",CNBC TV18
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",COLOR FHD
-http://176.9.111.190:31000/live/ropon@25/ropon25/109.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",COLORS HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/5632.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Captain tv TAMIL
-http://176.9.111.190:31000/live/ropon@25/ropon25/310.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Chakde TV Punjabi
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/5719.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Channel Divya
 http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w1157917870.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Channel Y
-http://cdn19.live247stream.com/channely/tv/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/VCUhufk.jpg" group-title="Undefined",Cine Voice
-https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/CINEVOICETV56.jpg" group-title="Music",Cine Voice
-https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Cine Voice (punjabi)
-http://beyondstreamz.net:25461/live/Ouiga/779393/175259.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/02/yuppclassicsmarathi.png" group-title="Movies",Classics Marathi
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarcla.stream_all/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/Screenshot_2.png" group-title="Movies",Classics Tamil
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/yuppclassicstelugu.png" group-title="Movies",Classics Telugu
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Color HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/119.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Colors HD
-http://beyondstreamz.net:25461/live/Ouiga/779393/175145.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Colors HD
-http://beyondstreamz.net:25461/live/Ouiga/779393/175120.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Colors HD (4K)
-http://176.9.111.190:31000/live/ropon@25/ropon25/102.m3u8?checkedby:hlscat.com
