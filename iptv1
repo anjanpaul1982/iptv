@@ -1,18 +1,23 @@
 #EXTM3U
-#PLAYLIST:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Music",9x Jalwa
 http://beyondstreamz.net:25461/live/Ouiga/779393/175215.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Music",9x Tashan
 http://beyondstreamz.net:25461/live/Ouiga/779393/175200.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sports",Starw Cricket HD
 http://beyondstreamz.net:25461/live/Ouiga/779393/175206.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/b4u_music_in.png" group-title="Hindi Music",B4U Music
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/b4u_music_in.png" group-title="Hindi 
+
+Music",B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/BBC_World_News-1.png" group-title="English News",BBC World News
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/BBC_World_News-1.png" group-
+
+title="English News",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Movies",BollyWood Hd
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END&checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="Hindi Movies",Bollywood Classic
+#EXTINF:0 tvg-country="IN" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" 
+
+group-title="Hindi Movies",Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Movies",CBS WEVV
 http://beyondstreamz.net:25461/live/Ouiga/779393/130776.m3u8?checkedby:hlscat.com
@@ -28,13 +33,55 @@ https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Bengali Entertainment",  Star Jalsha HD
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Bengali Entertainment",  Colors HD
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Entertainment",  Colors HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi News",AAJ TAK HD
 http://beyondstreamz.net:25461/live/Ouiga/779393/175183.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi News",ABC WRTV
 http://beyondstreamz.net:25461/live/Ouiga/779393/174142.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="Bengali News",ABP Ananda
+#EXTINF:0 tvg-country="IN" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-
+
+title="Bengali News",ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="Hindi News",ABP News
+#EXTINF:0 tvg-country="IN" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" 
+
+group-title="Hindi News",ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Movies",Star  Gold HD 
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Entertainment",Star  Plus HD 
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Movies",ZEE Bollywoods
+https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Movies",ZEE Cinemas
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Entertainment",ZEE Tv
+https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Discoveries Animals",Nat Geo People
+https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Discoveries Animals",Nat Geo Wilds
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Entertainment",FTV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English New",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi News",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English News",Times Now
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Discoveries Animals",History TV
+https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Entertainment",Fox Life 
+https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Music",Zing
+https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Bengali Music",Sangeet  Bangla
+https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Bengali Entertainment",Zee  Bangla
+https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Entertainment",Star Plus  HD
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Entertainment",Star Bharat
+https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Entertainment",TLC HD
+https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
