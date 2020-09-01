@@ -85,4 +85,33 @@ https://itpolly.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
 http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Bengali News",  Bangla  Time
 http://103.205.133.14/hls/banglatime.m3u8
-
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Entertainment",BBC  Lifestyle
+https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Cartoon", Nick
+https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Cartoon", Nick
+https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Entertainment",Comedy Central
+https://itpolly.iptv.digijadoo.net/live/comedy_central/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Entertainment",MTV  Europe
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Movies",Movies  Now
+https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Entertainment",& TV
+http://103.205.133.14/hls/andtv.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Movies",& Pictures HD 
+http://103.205.133.14/hls/andpicture.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Movies", & Flix HD
+http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Entertainment",Zoom
+https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English News",ET Now
+https://itpolly.iptv.digijadoo.net/live/et_now/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Discoveries Animals", Discovery  Real  Time
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Discoveries Animals", Discovery   Giallo
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Movies",Discovery Nove
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English News",CNBC 18
+https://itpolly.iptv.digijadoo.net/live/cnbc/chunks.m3u8
