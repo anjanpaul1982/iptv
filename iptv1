@@ -77,3 +77,5 @@ https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Entertainment", Star World 
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Entertainment",DD Nationals
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
