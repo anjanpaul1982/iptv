@@ -51,7 +51,7 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Entertainment",FTV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English New",India Today
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English News",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi News",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
