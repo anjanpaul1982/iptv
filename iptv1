@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Music",9x Jalwa
-http://beyondstreamz.net:25461/live/Ouiga/779393/175215.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Music",9x Tashan
 http://beyondstreamz.net:25461/live/Ouiga/779393/175200.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sports",Starw Cricket HD
@@ -89,7 +87,7 @@ http://103.205.133.14/hls/banglatime.m3u8
 https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Cartoon", Nick
 https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Cartoon", Nick
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Cartoon", Nick Sonic
 https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Entertainment",Comedy Central
 https://itpolly.iptv.digijadoo.net/live/comedy_central/chunks.m3u8
@@ -115,3 +113,35 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English News",CNBC 18
 https://itpolly.iptv.digijadoo.net/live/cnbc/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Movies", Wow  Cinema
+http://103.205.133.14/hls/wowcinema.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Movies", Fox Action Movies
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Movies", Star  Movies Select HD 
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Movies", WB
+http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sports", Star Sports Hindi 1
+http://87.117.234.107:1935/live/StarSports1FHD/playlist.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sports", Star Sports Select HD 2
+http://87.117.234.107:1935/live/StarSports2FHD/playlist.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Cartoon", Sony  Yay
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Movies",ZEE Action 
+http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Entertainment",Zee  Smile
+http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Movies",ZEE   Anmol Cinema 
+https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Entertainment",Zee Cafe HD
+http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Movies", Sony Max  HD
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_480p/index.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Entertainment",Sony SAB HD
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sports",Sony Ten 2  HD
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sports",Ten Sports
+http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sports",Sony Ten 3  HD
+http://103.205.133.14/hls/ten3.m3u8
