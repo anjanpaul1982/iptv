@@ -55,6 +55,8 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playli
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi News",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi News", Republic  Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1567723990~exp=1567726990~acl=/*~hmac=40fec7023d1d84b24d1267d9ee0ab92bceff3d35274ebef7be58aaeea1472868
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English News",Times Now
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Discoveries Animals",History TV
@@ -93,8 +95,10 @@ https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/comedy_central/chunks.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Entertainment",MTV  Europe
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Movies",Movies  Now
-https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Movies",Movies  Now 
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Movies", Romedy  Now 
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Entertainment",& TV
 http://103.205.133.14/hls/andtv.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Movies",& Pictures HD 
@@ -145,3 +149,7 @@ http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sports",Sony Ten 3  HD
 http://103.205.133.14/hls/ten3.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Movies", HBO  Asia
+http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Movies", MNX 
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
