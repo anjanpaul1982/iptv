@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Music",9x Tashan
-http://beyondstreamz.net:25461/live/Ouiga/779393/175200.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sports",Starw Cricket HD
 http://beyondstreamz.net:25461/live/Ouiga/779393/175206.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/b4u_music_in.png" group-title="Hindi Music",B4U Music
