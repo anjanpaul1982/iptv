@@ -151,3 +151,5 @@ http://103.205.133.14/hls/ten3.m3u8
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Movies", MNX 
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:-1 group-title="Bengali Movies" tvg-logo="https://i.imgur.com/wl00Xig.png",IN: JALSHA MOVIES
+http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/3484
