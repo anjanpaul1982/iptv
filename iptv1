@@ -143,6 +143,8 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_480p/index.m3u8
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sports",Sony Ten 2  HD
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sports",Sony Ten 2  HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sports",Ten Sports
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sports",Sony Ten 3  HD
@@ -155,3 +157,9 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/3484
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Bengali News", Calcutta News  
 https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Movies", Sony Pix HD  
+http://62.210.82.206:25461/pGCRFg3CE2/cR26N4XcVr/34470?play_token=vRkKehJUOG&token=QhVcUhcJRggXUwQDAgRUVVkDAQRQUQdTVgFWUFUGUAIMUg0LU1ZWC1ZGGURBEkJRAFtpWgVEXlBRUAJRSkAXElxFa1oAQ14QB1wBVwFQEhhDQl9eBEReUlBdAFhfVVRWDRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Movies", Sony Movies Action
+http://51.52.156.22:8888/http/009
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Bengali News",  ZEE 24  Ghanta
+https://z5live2media.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-II/out/v1/6737f9e33c8a4fed94b7fce2feeb9565/index.m3u8
