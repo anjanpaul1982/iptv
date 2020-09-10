@@ -7487,3 +7487,5 @@ http://37.235.180.197:81/udp/225.50.70.7:1234
 http://37.235.180.197:81/udp/225.50.70.2:1234
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Znglish Movies", REN tv 
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Znglish Movies", REN tv 
+http://46.32.68.167/s/live/19/86.169.51.136/1/0.m3u8
