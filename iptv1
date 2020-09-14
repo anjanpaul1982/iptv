@@ -163,3 +163,5 @@ http://62.210.82.206:25461/pGCRFg3CE2/cR26N4XcVr/34470?play_token=vRkKehJUOG&tok
 http://51.52.156.22:8888/http/009
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Bengali News",  ZEE 24  Ghanta
 https://z5live2media.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-II/out/v1/6737f9e33c8a4fed94b7fce2feeb9565/index.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Bengali Entertainment",  Colors Bangla
+http://tv.bdtv.xyz:8080/token/zeebangla/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIwIDg6NDg6MDIgUE0maGFzaF92YWx1ZT1zRE5oU1JXR0YxMFluR1ZMblYyaDB3PT0mdmFsaWRtaW51dGVzPTU=
