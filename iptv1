@@ -209,3 +209,9 @@ http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/SonySIX.in.png" group-title="Sports",Sony Six
 http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" tvg-country="HK" tvg-url="" group-title="Sports",Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
