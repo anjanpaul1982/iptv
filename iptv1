@@ -18,6 +18,8 @@ http://beyondstreamz.net:25461/live/Ouiga/779393/175178.m3u8?checkedby:hlscat.co
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Peace",Channel Divya
 http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w1157917870.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Bengali Movies", Jalsha Movies
+http://telelivetv.webredirect.org:8081/globeworld2020/starjalshamovies/playlist.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Bengali Movies", Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Bengali Entertainment",  Colors HD Bangla
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
