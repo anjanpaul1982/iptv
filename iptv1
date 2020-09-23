@@ -103,6 +103,8 @@ http://103.205.133.14/hls/andtv.m3u8
 http://103.205.133.14/hls/andpicture.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Movies", & Flix HD
 http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="English Movies", & Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Entertainment",Zoom
 https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English News",ET Now
