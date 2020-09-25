@@ -216,4 +216,11 @@ http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" tvg-country="HK" tvg-url="" group-title="Sports",Star Sports
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+#EXTINF:-1 tvg-id="" tvg-logo="http://globalbanglatv.com/wp-content/uploads/2019/11/zee-bangla-cinema.jpg" group-title="Bengali Movies", Zee  Bangla Cinema
+http://telelivetv.webredirect.org:8081/globeworld2020/zeebanglacinema/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://globalbanglatv.com/wp-content/uploads/2019/11/Colors.jpg" group-title="Bengali Entertainment", Colors Bangla 
+http://telelivetv.webredirect.org:8081/globeworld2020/colorsbangla/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://globalbanglatv.com/wp-content/uploads/2019/11/Star-Jalsh-tv.jpg" group-title="Bengali Entertainment", Star Jalsha
+http://163.172.29.246:8081/globeworld2020/starjalsha/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://globalbanglatv.com/wp-content/uploads/2019/11/zee-bangla.jpg" group-title="Bengali Entertainment", Zee Bangla
+http://telelivetv.webredirect.org:8081/globeworld2020/zeebangla/playlist.m3u8
