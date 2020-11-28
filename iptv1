@@ -339,9 +339,9 @@ https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
 	
 	#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" tvg-country="HK" tvg-url="" group-title="Sports",Star Sports
 	rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-#EXTINF:-1 group-title="Sports",DUBAI ONE
+#EXTINF:-1 group-title="English Movies",DUBAI ONE
 https://ch.iptvmate.net/f5d063ba7b6f6a5acbb3dd649ecf38d8.m3u8
-#EXTINF:-1 group-title="Sports",DUBAI ONE
+#EXTINF:-1 group-title="English Movies",DUBAI ONE
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
 
 	#EXTINF:-1 tvg-id="" tvg-logo="http://globalbanglatv.com/wp-content/uploads/2019/11/zee-bangla-cinema.jpg" group-title="Bengali Movies", Zee  Bangla Cinema
